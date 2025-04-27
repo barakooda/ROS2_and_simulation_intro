@@ -1,0 +1,41 @@
+# Ignore VSCode settings folder
+.vscode/
+
+# ROS2 workspace artifacts
+build/
+install/
+log/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# CMake temporary files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build system files
+*.a
+*.so
+*.dylib
+*.exe
+*.o
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE-specific folders
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Other
+*.swp
