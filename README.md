@@ -4,6 +4,8 @@ Welcome to **ROS2 and Simulation Intro**! This repository is a hands-on project 
 
 If you’re new to robotics or just starting with ROS2, this README will guide you step-by-step.
 
+![System Architecture](docs/barak_ros2_intro_sim.jpg)
+
 ---
 
 ## 📂 Project Structure
